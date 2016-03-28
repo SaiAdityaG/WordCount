@@ -8,7 +8,7 @@ Web Application whose response would be number of times queried word exists in c
 
 Apache Tomcat 8.0
 
-For Testing, external library 'HTTPUnit-1.7' is required
+For Testing, external package 'HTTPUnit-1.7' is required
 
 ##Deploy
 
